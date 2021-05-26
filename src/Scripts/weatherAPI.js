@@ -1,5 +1,3 @@
-//const APIkey = '52aef8e7daa5ca4dd4b7b88e3d21d277';
-const APIkey = 'f128c241fbabd343dd361e7760d11e90';
 export const getWeatherDEVMODE = async () => {
   return dummyData;
 }
